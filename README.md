@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working at Lear Corporate.
+- 🔭 I’m currently working at Lear Corporation.
 - 🌱 I’m currently learning more about Open Source and different domains [Data Science, Data Engineering And a little bit more about Web Development :D].
 - 👯 I’m open for collaboration on projects that belongs to any of the above mentionned domains.
 - 📫 How to reach me: adnanbenzo194@gmail.com
