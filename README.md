@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working at DAF Trucks.
-- 🌱 I’m currently learning more about different domains [Data Science,Data Engineering,Web Development and DevOps :D].
+- 🌱 I’m currently deepening my knowledge in software engineering and devops.
 - 📫 How to reach me: adnanbenzo194@gmail.com
 
 <!--
