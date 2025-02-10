@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 </a>
 <!-- <a href="https://github.com/ABenazzou/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ABenazzou&show_icons=true&theme=tokyonight&rank_icon=percentile" /> -->
-</a>
+  
+<!-- </a> -->
+[My Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ABenazzou)
