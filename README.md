@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/ABenazzou/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABenazzou&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/ABenazzou/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ABenazzou&show_icons=true&theme=tokyonight&rank_icon=percentile" />
+<!-- <a href="https://github.com/ABenazzou/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ABenazzou&show_icons=true&theme=tokyonight&rank_icon=percentile" /> -->
 </a>
