@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/ABenazzou/convoychat" align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABenazzou&show_icons=true&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://github.com/ABenazzou/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABenazzou&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
 <!-- <a href="https://github.com/ABenazzou/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ABenazzou&show_icons=true&theme=tokyonight&rank_icon=percentile" /> -->
   
